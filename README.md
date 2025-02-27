@@ -1,7 +1,7 @@
 ## Server Engineer
 
 - I'm interested in object-oriented programming and unit testing.
-- I love exploring technologies, especially relational databases.
+- I love exploring new technologies, especially the internal workings of relational databases.
 - I want my teammates to be happy and enjoy working together. 😊
 
 ### 🏈 Skills
