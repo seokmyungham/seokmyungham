@@ -2,7 +2,7 @@
 
 - I'm interested in object-oriented programming and unit testing.
 - I love exploring technologies, especially relational databases.
-- I want my teammates to be happy and enjoy working together.
+- I want my teammates to be happy and enjoy working together. 😊
 
 ### 🏈 Skills
 
