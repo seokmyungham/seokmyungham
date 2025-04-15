@@ -4,10 +4,11 @@ I'm interested in writing flexible and testable code.
 I love exploring new technologies, especially the internal workings of databases.  
 I want my teammates to be happy and enjoy working together. 😊
 
-### Carreer
+### Background
 
 - DanawaLab (2025.04 - Present)
 - Woowacourse 6th (2024.02 - 2024.11)
+- Myongji Univ (B.S. in ICT Engineering, 2018.03 – 2024.02)
 
 ### Skills
 
