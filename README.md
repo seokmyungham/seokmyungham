@@ -6,9 +6,9 @@ I want my teammates to be happy and enjoy working together. 😊
 
 ### Background
 
-- DanawaLab (2025.04 - Present)
-- Woowacourse 6th (2024.02 - 2024.11)
-- Myongji Univ (B.S. in ICT Engineering, 2018.03 – 2024.02)
+- DanawaLab (2025.04 – Present)
+- Woowacourse 6th (2024.02 – 2024.11)
+- Myongji University, B.S. in ICT Engineering (2018.03 – 2024.02)
 
 ### Skills
 
