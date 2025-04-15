@@ -1,19 +1,19 @@
 ## Server Engineer
 
-- I'm interested in object-oriented programming and unit testing.
-- I love exploring new technologies, especially the internal workings of relational databases.
-- I want my teammates to be happy and enjoy working together. 😊
+I'm interested in writing flexible and testable code.  
+I love exploring new technologies, especially the internal workings of databases.  
+I want my teammates to be happy and enjoy working together. 😊
 
-### 🏈 Skills
+### Carreer
+
+- DanawaLab (2025.04 - Present)
+- Woowacourse 6th (2024.02 - 2024.11)
+
+### Skills
 
 <p>
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
-### 👋 Contact
-
-<a href="mailto:gkatjraud1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gkatjraud1@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
