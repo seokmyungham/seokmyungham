@@ -6,8 +6,8 @@ Beyond the technical side, I want to be someone who helps the team be happy and 
 
 ### Background
 
-💼 Danawa  
-🎓 Woowacourse 6th  
+💼 Danawa (2025.04 – Present)  
+🎓 Woowacourse 6th (2024.02 – 2024.11)  
 🎓 Myongji University, B.S. in ICT Engineering (GPA: 4.2 / 4.5) 
 
 ### Skills
