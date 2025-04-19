@@ -1,8 +1,8 @@
-## Server Engineer
+## About Me
 
-I'm interested in writing flexible and testable code.  
-I love exploring new technologies, especially the internal workings of databases.  
-I want my teammates to be happy and enjoy working together. 😊
+As a Server Engineer, I'm interested in writing flexible and testable code.  
+I also love exploring new technologies, especially the internal workings of databases.  
+Beyond the technical side, I want to be someone who helps the team be happy and enjoy working together. :blush:
 
 ### Background
 
